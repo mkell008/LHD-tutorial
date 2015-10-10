@@ -1,9 +1,13 @@
 /*Default CSS File*/
+
 body{
-  background: red;
+  max-width: 1024px;
+  margin: 0 auto;
+}
 
-  color: white;
-
-  font-size: 80px;
-  
+.profile{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 100%; /*makes it round*/
 }
